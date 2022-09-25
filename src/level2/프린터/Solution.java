@@ -1,4 +1,4 @@
-package 프린터;
+package level2.프린터;
 import java.util.*;
 import java.util.stream.Collectors;
 
