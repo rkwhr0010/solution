@@ -1,4 +1,4 @@
-package 다리를지나는트럭;
+package level2.다리를지나는트럭;
 import java.util.LinkedList;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
